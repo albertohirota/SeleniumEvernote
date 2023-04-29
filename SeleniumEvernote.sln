@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumEvernote", "SeleniumEvernote\SeleniumEvernote.csproj", "{949D46D3-ED14-449E-8AD1-273A480EB905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task1\Task1.csproj", "{DBAFABFB-2D8A-421B-86B9-8D7BF6B31662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvernoteLibrary", "Evernote\EvernoteLibrary.csproj", "{6E203F95-4A0B-4C62-B9F0-810AF3417151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{949D46D3-ED14-449E-8AD1-273A480EB905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949D46D3-ED14-449E-8AD1-273A480EB905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949D46D3-ED14-449E-8AD1-273A480EB905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949D46D3-ED14-449E-8AD1-273A480EB905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBAFABFB-2D8A-421B-86B9-8D7BF6B31662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAFABFB-2D8A-421B-86B9-8D7BF6B31662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAFABFB-2D8A-421B-86B9-8D7BF6B31662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAFABFB-2D8A-421B-86B9-8D7BF6B31662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E203F95-4A0B-4C62-B9F0-810AF3417151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E203F95-4A0B-4C62-B9F0-810AF3417151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E203F95-4A0B-4C62-B9F0-810AF3417151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E203F95-4A0B-4C62-B9F0-810AF3417151}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4703A977-8771-4B09-B61D-34E1F243C502}
+	EndGlobalSection
+EndGlobal
